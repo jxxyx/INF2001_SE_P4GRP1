@@ -14,10 +14,10 @@ The **Ambulance Management System** aims to streamline the management of ambulan
 |---------------------|-------------------|----------------|
 | Team Lead           | Emma              | 2302940        |
 | Tech Lead Architect | Emma              | 2302940        |
-| Full Stack Developer| Jun Yu / Julian   | 2302997, 2303039 |
+| Full Stack Developer| Jun Yu / Julian   | 2302997, 2303039|
 | Front End Developer | Alenna            | 2302968        |
 | Back End Developer  | Cholo             | 2302944        |
-| QA Engineer         | Jas               | 2302990        |
+| QA Engineer         | Jasbir            | 2302990        |
 | UI/UX Engineer      | Jun Yu            | 2302997        |
 
 ---
